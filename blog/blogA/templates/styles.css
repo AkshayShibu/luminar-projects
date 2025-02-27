@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+h1 {
+    color: #3498db; /* Blue color for the heading */
+}
+
+button {
+    background-color: #2ecc71; /* Green button */
+    color: white; /* White text on button */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding for button */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #27ae60; /* Darker green on hover */
+}
